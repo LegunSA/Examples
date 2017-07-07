@@ -1,0 +1,2 @@
+Scaffold-DbContext "Server=Pavilion\SQLExpress;Database=FileTracer.DataBase;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+addScaffold-DbContext "Server=Pavilion\SQLExpress;Database=aspnet-WebManager;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

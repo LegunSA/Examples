@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaFiles", "MediaFiles\MediaFiles.csproj", "{F1C1CBBD-2FBC-4405-A87C-AAAF856FB2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo\Demo.csproj", "{17C59B6A-DA87-45BB-9BD7-FF21170DA026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player\Player.csproj", "{88B25E4C-CF24-4A65-9B76-CBC1A842FD7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medeateka", "Core\Medeateka.csproj", "{9ACEFB0E-4770-4BC2-8BBF-0A85DB1EB226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C1CBBD-2FBC-4405-A87C-AAAF856FB2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C1CBBD-2FBC-4405-A87C-AAAF856FB2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C1CBBD-2FBC-4405-A87C-AAAF856FB2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C1CBBD-2FBC-4405-A87C-AAAF856FB2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C59B6A-DA87-45BB-9BD7-FF21170DA026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C59B6A-DA87-45BB-9BD7-FF21170DA026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C59B6A-DA87-45BB-9BD7-FF21170DA026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C59B6A-DA87-45BB-9BD7-FF21170DA026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B25E4C-CF24-4A65-9B76-CBC1A842FD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B25E4C-CF24-4A65-9B76-CBC1A842FD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B25E4C-CF24-4A65-9B76-CBC1A842FD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B25E4C-CF24-4A65-9B76-CBC1A842FD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACEFB0E-4770-4BC2-8BBF-0A85DB1EB226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACEFB0E-4770-4BC2-8BBF-0A85DB1EB226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACEFB0E-4770-4BC2-8BBF-0A85DB1EB226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACEFB0E-4770-4BC2-8BBF-0A85DB1EB226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
